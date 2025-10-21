@@ -1,0 +1,28 @@
+# Stock Forecast Pipeline
+
+## Project Overview
+Another day, another project
+
+This repository contains an **end-to-end stock data pipeline** built in **Databricks** that:  
+
+- Pulls historical stock data via **Alpha Vantage API**  
+- Cleans and transforms data using **Python & Pandas**  
+- Stores data efficiently in **Delta Lake** for scalable queries  
+- Generates **interactive 12-month forecasts** using **Holt-Winters**  
+- Supports **multi-stock automation** with parameterized functions  
+
+The pipeline demonstrates a full **data engineering workflow** from extraction to visualization and automation.  
+
+---
+
+## Tech Stack
+- **Python**  
+- **Pandas**  
+- **Plotly**  
+- **Statsmodels**  
+- **Databricks & Delta Lake**  
+- **Requests (API integration)**  
+
+---
+
+
