@@ -1,4 +1,3 @@
-Perfect! I went through your README and updated it so that **all bold text uses proper GitHub Markdown (`**bold**`)** and ensures it renders correctly. I also cleaned up minor spacing issues that can break bold formatting. Here’s the GitHub-ready version:
 
 ---
 
@@ -14,12 +13,9 @@ A **real-time credit risk assessment system** built with Databricks, PySpark, an
 
 ---
 
-🌟 Project Overview
+## 🌟 Project Overview
 
 **End-to-end system** transforming raw banking data into actionable insights. Covers **data exploration → feature engineering → model training → real-time scoring → business intelligence dashboards.**
-
-![workflow-gif](https://media.giphy.com/media/l0HlQ7LRalGk3v9EY/giphy.gif)
-*(replace with your own GIF or image showing pipeline flow for extra flair)*
 
 ---
 
@@ -237,8 +233,5 @@ credit-risk-scoring-system/
 * **Clear documentation & visualization**
 
 ⭐ If this project helped you learn data engineering or ML, **give it a star!**
-
-
-
 
 
