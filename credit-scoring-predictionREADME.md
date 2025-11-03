@@ -14,7 +14,7 @@ A **real-time credit risk assessment system** built with Databricks, PySpark, an
 
 ---
 
-## 🌟 Project Overview
+🌟 Project Overview
 
 **End-to-end system** transforming raw banking data into actionable insights. Covers **data exploration → feature engineering → model training → real-time scoring → business intelligence dashboards.**
 
